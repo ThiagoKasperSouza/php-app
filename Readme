@@ -1,0 +1,4 @@
+PHP App - exemplo
+
+rodar:
+php -S localhost:8000
