@@ -1,4 +1,8 @@
 PHP App - exemplo
 
+instalar composer local no projeto
+curl -sS https://getcomposer.org/installer | php
+
+
 rodar:
 php -S localhost:8000

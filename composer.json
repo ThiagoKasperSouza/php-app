@@ -1,0 +1,7 @@
+{
+    "name": "t/php-app",
+    "description": "simple php app",
+    "type": "project",
+    "license": "MIT",
+    "require": {}
+}
